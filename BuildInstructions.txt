@@ -1,0 +1,9 @@
+1. Go to an SDL release from e.g., https://github.com/libsdl-org/SDL/releases
+
+2. Choose the development package, e.g., SDL3-devel-3.4.4-VC.zip 
+
+3. Unzip the file.
+
+4. Copy the contents here, so that this folder directly contains the subfolders "include" and "lib".
+
+That's it. If you use the development package, the 'lib' folder also contains the runtime DLL.

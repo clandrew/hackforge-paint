@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+/.vs/
+/Debug/
+/Release/
+/SDL3-SDK/
+/x64/
